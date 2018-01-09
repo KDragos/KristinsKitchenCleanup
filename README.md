@@ -7,3 +7,6 @@ For this project, I used UE4.15.3. Designed for and tested with the Oculus Rift 
 
 ## 3rd Party Assets Used
 I used some audio from the Oculus Audio sdk. 
+
+## Timer Mechanism
+The timer doesn't show numbers. Instead it's more like a progressbar. It continues to show less and less until it runs out and the dishes respawn.
